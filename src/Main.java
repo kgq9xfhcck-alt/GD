@@ -135,8 +135,8 @@ public class Main {
     // Fonction d’envoi d’email (un seul email contenant tous les lots)
     static void sendEmail(String content) {
 
-        final String from = "rayanbouabid7@gmail.com";
-        final String password = "brmc chzi viri hkzm";
+        final String from = "YOUR_EMAIL";
+        final String password = "YOUR_PASSWORD";
 
         Properties props = new Properties();
 
